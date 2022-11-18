@@ -37,4 +37,7 @@
 - Pygame  --> https://nodejs.org/en/download/
 - NPM package manager --> pip install npm
 
+## How To Test:
+  - Run main.py file or Download main.exe and execute
+
 ### Project Implementation And Explanation: https://www.youtube.com/watch?v=RDNphFgWQ2M&ab_channel=AshrafYawar
